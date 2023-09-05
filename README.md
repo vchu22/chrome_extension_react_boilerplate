@@ -1,4 +1,4 @@
-# Reac Chrome Extension Boilerplate
+# React Chrome Extension Boilerplate
 I followed the tutorial [Build a Chrome Extension With React & Webpack](https://www.youtube.com/watch?v=8OCEfOKzpAw) to build a simple Chrome extension using React.
 
 ## Run project
